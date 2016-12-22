@@ -1,0 +1,14 @@
+HELLO!
+IMAGINE ME SCREAMING THIS WITH UTTER ENTHUSIASM!!
+FREE DATA TO TEST THESE SCRIPTS CAN BE DOWNLOADED HERE:
+https://drive.google.com/file/d/0B_5e7rc3QoQqV3VnaTJabVJrX2s/view?usp=sharing
+
+DOWNLOAD THE DATA INTO THE DIRECTORY CONTAINING THIS README
+
+Now imagine me saying this in a normal, inside, non-exuberant voice.
+After downloading, un-tar the file:
+tar -xzvf matlabtools_testdata.tgz
+
+Once you have the data un-tarred, you should be able to test the driver scripts.
+
+The scripts in Functions/ are just support scripts and should not be invoked directly.
