@@ -1,5 +1,7 @@
 % =========================================================================
+%
 % Constants for ED2 Analysis Scripts
+%
 % =========================================================================
 
 
@@ -10,7 +12,7 @@ C2B     = 2.0;              % Kg Carbon to Kg Biomass  conversion
 fasz    = 14;               % Standard font size for figures
 
 
-marksize = 8;               % Size for markers
+marksize = 6;               % Size for markers
 
 %min_nco = 1e5*1/1e6;       % Minimum number of cohorts?
 

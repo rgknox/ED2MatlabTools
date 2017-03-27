@@ -66,9 +66,8 @@ for i=1:nf
         irow=irow+1;
         cline=textscan(tline,csvform,'delimiter',',');
         
-        
         pdata.tran(irow)    = i;
-        pdata.ua(irow)      = cline{1}(1);
+        %pdata.ua(irow)      = cline{1}(1);
         pdata.N(irow)       = cline{2}(1);
         for iy=1:nsyr
             

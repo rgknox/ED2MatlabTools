@@ -13,6 +13,7 @@ Qdir = edqpfx(1:id(end));
 nqfiles = length(Qlist);
 dnq     = zeros(nqfiles,1);
 
+
 % Find out how many patches we have total, in all q files
 % The assumption is that you must have all months for each year
 %==========================================================================
